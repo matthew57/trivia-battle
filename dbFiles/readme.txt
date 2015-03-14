@@ -48,8 +48,8 @@ defence
 
 /*
 * Weapon, each gamer can have one and only one.
-* Let's make the hp, attack and defence bonuses be integer will be added to the basic value, just keep it simple
-* special mean special skill attach to each weapon, will be an integer
+* Let's make the hp, attack and defence bonuses be integer which will be added to the basic value
+* Special means special skill which attached to each weapon, it will be an integer
 * 0. nothing, 1. healing, 2. critical, 3. reduce choices for the next round (subjected to changes)
 */
 var weapon {
