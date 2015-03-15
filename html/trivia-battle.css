@@ -1,0 +1,45 @@
+body {
+	background-color:787171;
+	max-width:500px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#all {
+	position:relative;
+	background-color:ffffff;
+    border-style: solid;
+    border-width: 5px;
+	min-height:65%
+}
+
+#header {
+	background-color:0727ff;
+}
+
+#content {
+    border-style: dotted;
+    border-width: 2px;
+}
+#footer {
+position: absolute;
+	bottom:0;
+   width:100%;
+   height:60px;   /* Height of the footer */
+   background:#6cf;
+}
+
+#topics li {
+	padding:10px 3px 10px 3px;
+	background-color:#FEC7FD;
+	display:inline:block;
+	border-radius:10px;
+    margin-bottom: 10px;	
+}
+
+#topics ul li a {
+	display:block;	
+	text-decoration:none;
+	color:#000000;
+}
+
