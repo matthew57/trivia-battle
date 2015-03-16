@@ -26,6 +26,8 @@ http.createServer(function (req, res) {
        	var reqObj = JSON.parse(jsonData);
         
         
+        //ToDo in week 2: Use login data to assign points to the user sending back answer data.
+        
           //var MongoClient = require('mongodb').MongoClient;
        // MongoClient.connect("mongodb://localhost/weather", function(err, db) {
         // if(err) throw err;
