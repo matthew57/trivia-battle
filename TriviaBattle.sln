@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{9344bdbb-3e7f-41fc-a0dd-8665d75ee146}") = "TriviaBattle", "TriviaBattle\TriviaBattle.mdproj", "{19A16A0F-5D57-402C-9A63-D1FCF64AA147}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Any CPU = Default|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19A16A0F-5D57-402C-9A63-D1FCF64AA147}.Default|Any CPU.ActiveCfg = Default|Any CPU
+		{19A16A0F-5D57-402C-9A63-D1FCF64AA147}.Default|Any CPU.Build.0 = Default|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = TriviaBattle\TriviaBattle.mdproj
+	EndGlobalSection
+EndGlobal
